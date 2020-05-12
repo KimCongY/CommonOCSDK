@@ -1,0 +1,10 @@
+<div style="text-align:center; width:100%;">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_01.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_02.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_03.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_04.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_05.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_06.jpg">
+<img style="text-align:center; width:100%;" src="http://125.65.108.53:8080/cwmm/上传内容/AI/images/详情图-金盾皮滴耳油_07.jpg">
+<a href="http://www.baidu.com">点我跳转百度</a>
+</div>

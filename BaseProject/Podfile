@@ -1,0 +1,36 @@
+platform :ios, '9.0'
+#use_frameworks!
+
+#消除所有pod库的所有警告⚠️
+inhibit_all_warnings!
+
+target 'BaseProject' do
+    pod 'PPNetworkHelper'
+    pod 'Masonry'
+    pod 'MJExtension'
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'SDAutoLayout'
+    pod 'MBProgressHUD'
+    pod 'SVProgressHUD'
+    pod 'YYModel'
+    pod 'YYImage'
+    pod 'YYWebImage'
+    pod 'YYCategories'
+    pod 'YYText'
+    pod 'ReactiveObjC',:inhibit_warnings => true#这个是打开RAC库的警告，不然编译无法通过
+    pod 'SGPagingView'
+    pod 'CYLTabBarController'
+    pod 'IQKeyboardManager'
+    pod 'FLEX'
+    pod 'DGActivityIndicatorView'
+    pod 'MyLayout'
+    pod 'JPNavigationController'
+    pod 'LYEmptyView'
+    pod 'Toast'
+    pod 'Realm'
+    pod 'RealReachability'
+    pod 'TZImagePickerController'
+    pod 'BGFMDB'
+    pod 'Texture'
+end
